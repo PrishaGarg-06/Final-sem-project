@@ -1,0 +1,7 @@
+outlet_id,item_id,item_name,expiry_date,days_to_expiry,priority_score,task_type,task_status
+1007,10031,Cake,2026-06-03,-2,35.0,Expiry Audit,OPEN
+1002,10007,Juice,2026-06-03,-2,32.2,Expiry Audit,OPEN
+1001,10004,Curd,2026-06-04,-1,31.8,Expiry Audit,OPEN
+1010,10048,Mango Juice,2026-06-05,0,29.4,Expiry Audit,OPEN
+1001,10001,Milk,2026-06-08,3,28.5,Expiry Audit,OPEN
+1003,10011,Ice Cream,2026-06-02,-3,27.9,Expiry Audit,OPEN
